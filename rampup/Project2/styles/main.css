@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+<!---Three properties= background-color, height(px), width(px)--->
+
+body {
+
+   background-color: yellow;
+   height: 100px;
+   width: 100px;
+  
+   
+   }
+   
+img {
+
+     height: 300px;
+     width: 1170px;
+     border: 4px solid #ffffff;
+     
+     }
+   
+
+    
+
+
+p {
+
+   color: black;
+   font-size: 25px;
+   font-family: Courier, cursive, sans-serif;
+   background-color: #FFCCFF;
+   text-align: center;
+   }
+   
+span {
+
+   color: yellow;
+   background-color: blue;
+
+   }
+   
+
+
+    
+   
+h1 {
+
+    background-color: #FFCCFF;
+    font-size: 45px;
+    font-family: Courier;
+    font-color: blue;
+    text-align: center;
+   
+    }   
+   
+h2 {
+    color: blue;
+    background-color: pink;
+    font-family: Courier;
+    font-size: 45px;
+    {
+    
+ol {
+
+    font-color: pink;
+    backgroun-color: blue;
+    }
